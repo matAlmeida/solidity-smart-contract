@@ -9,6 +9,14 @@ $ npm i
 $ npm test
 ```
 
+## Scripts
+
+| Script         | Description                               |
+| -------------- | ----------------------------------------- |
+| npm test       | Run test scripts with `ganache` provider  |
+| npm run deploy | Deploy contract in `Rinkeby` test network |
+|                |                                           |
+
 ## Checking transaction
 
 https://rinkeby.etherscan.io/
