@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "test": "./node_modules/mocha/bin/mocha"
+        "test": "mocha"
     },
     "keywords": [],
     "author": "",
@@ -15,6 +15,7 @@
     },
     "devDependencies": {
         "ganache-core": "2.3.1",
-        "mocha": "^5.2.0"
+        "mocha": "^5.2.0",
+        "source-map-support": "0.5.9"
     }
 }
