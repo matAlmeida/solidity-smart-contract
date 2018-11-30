@@ -9,6 +9,10 @@ $ npm i
 $ npm test
 ```
 
+## Checking transaction
+
+https://rinkeby.etherscan.io/
+
 ## requesting ETH
 
 https://faucet.rinkeby.io
